@@ -50,7 +50,7 @@ Covered scenarios:
 - Multiple roots with selective root/child inclusion.
 - Provided example from the assignment prompt.
 
-## Notes For Reviewer
+## Summary
 
 - The solution favors clarity and linear-time behavior.
 - Tests are intentionally scenario-focused (`given/when/then`) to make rule verification easy to follow.
